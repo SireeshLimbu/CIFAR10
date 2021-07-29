@@ -1,5 +1,5 @@
 # CIFAR10
-Image Classification of the CIFAR10 dataset using CNN
+Image Classification of the classic CIFAR10 dataset using CNN
 
 • Implemented a Convolutional Neural Network - CNN to classify 60000 32X32 images into 10 given classes
 
